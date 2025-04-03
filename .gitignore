@@ -84,3 +84,7 @@ dmypy.json
 
 # Windows
 Thumbs.db
+
+# Ignore vectorstore contents but keep the directory
+/data/vectorstore/*
+!/data/vectorstore/.gitkeep
