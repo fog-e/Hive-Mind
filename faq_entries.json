@@ -1,0 +1,99 @@
+{
+    "faq": [
+      {
+        "id": 1,
+        "question": "What is COBKA?",
+        "answer": "COBKA, short for Central Oregon Beekeepers Association, is a volunteer-run nonprofit supporting beekeeping in Central Oregon. We offer education, mentorship, equipment access, and a community for beekeepers of all experience levels."
+      },
+      {
+        "id": 2,
+        "question": "How can I become a member of COBKA?",
+        "answer": "Sign up at: https://www.cobeekeeping.org/Become-a-member. Membership includes meeting access, educational resources, and eligibility for equipment loans and scholarships."
+      },
+      {
+        "id": 3,
+        "question": "Does COBKA offer beekeeping courses?",
+        "answer": "Yes. COBKA provides an annual Beginner Beekeeping Course, at least one advanced class, and hands-on events like hive inspections and field days."
+      },
+      {
+        "id": 4,
+        "question": "What is the Oregon Master Beekeeper (OMB) Program?",
+        "answer": "Run by Oregon State University (OSU), the OMB Program offers structured beekeeping education at multiple levels. COBKA provides a free one-year membership for OMB participants in Central Oregon and scholarship/reimbursement support for locals enrolled in OMB. Learn more: https://extension.oregonstate.edu/mb"
+      },
+      {
+        "id": 5,
+        "question": "How can I sign up for the OSU Oregon Master Beekeeper Program?",
+        "answer": "Register through OSU: https://extension.oregonstate.edu/mb. COBKA members in Central Oregon may qualify for reimbursement—see our scholarship info."
+      },
+      {
+        "id": 6,
+        "question": "How do I report a bee swarm?",
+        "answer": "Report honey bee swarms here: https://www.cobeekeeping.org/Swarm-Page. A local beekeeper may safely remove and relocate them—free of charge, if they’re honey bees."
+      },
+      {
+        "id": 7,
+        "question": "Are there local suppliers for beekeeping equipment in Central Oregon?",
+        "answer": "Yes! COBKA maintains a supplier list here: https://www.cobeekeeping.org/Suppliers. Contact us if you'd like to suggest a local supplier."
+      },
+      {
+        "id": 8,
+        "question": "What should I do before getting bees?",
+        "answer": "Start strong with: ✅ Checking local hive regulations (see FAQs #11 & #12); 🐝 Taking a beginner course or OSU’s “Getting Started with Bees”: https://extension.oregonstate.edu/mb/getting-started-bees; 📚 Reading best practices: https://catalog.extension.oregonstate.edu/em9186"
+      },
+      {
+        "id": 9,
+        "question": "Where can I find additional beekeeping resources?",
+        "answer": "Check our curated list: https://www.cobeekeeping.org/Links. Includes OSU guides, regulations, health checklists, and more."
+      },
+      {
+        "id": 10,
+        "question": "How can I stay informed about COBKA news and updates?",
+        "answer": "📧 Subscribe to our newsletter: http://eepurl.com/cNRj-5. 🌐 Visit our website: https://www.cobeekeeping.org. We limit social media activity—email and the website are the most reliable."
+      },
+      {
+        "id": 11,
+        "question": "How many hives can I keep in Bend, Oregon?",
+        "answer": "Depends on lot size: Under 5,000 sq. ft. → 2 hives max; 5,000–10,000 sq. ft. → 4 hives max; Over 10,000 sq. ft. → 6 hives max. Regulations: https://bend.municipal.codes/BDC/3.6.300"
+      },
+      {
+        "id": 12,
+        "question": "Do I need to register my hives?",
+        "answer": "Yes, if you have 5 or more colonies, register annually with the Oregon Department of Agriculture. Form: https://www.oregon.gov/oda/shared/Documents/Publications/IPPM/ApiaryRegistrationForm.pdf. Details: https://www.oregon.gov/oda/programs/IPPM/InsectsSpiders/Pages/BeesApiaries.aspx"
+      },
+      {
+        "id": 13,
+        "question": "What are the rules for selling honey in Oregon?",
+        "answer": "Key requirements include: Accurate honey labeling (ORS 616.766), Oregon Produce Standards, and compliance with ODA Food Safety guidelines. For details, check: https://www.oregon.gov/oda"
+      },
+      {
+        "id": 14,
+        "question": "How can I get beekeeping help?",
+        "answer": "Use our Ask a Master Beekeeper service: https://www.cobeekeeping.org/Ask-a-Master-Beekeeper. Choose Public Q&A (published on our website) or Private reply via email. Confirmation is sent after submission."
+      },
+      {
+        "id": 15,
+        "question": "How do I check my hives for Varroa mites?",
+        "answer": "Common methods include Alcohol Wash (most accurate), Sugar Roll (less invasive), and Sticky Boards (long-term monitoring). Guide: https://honeybeehealthcoalition.org/varroatool/"
+      },
+      {
+        "id": 16,
+        "question": "What should I do if my hive dies?",
+        "answer": "Conduct a Hive Necropsy: preserve the frame layout, freeze a bee sample, and log recent activity (mite levels, feeding, etc.). This helps diagnose the issue and prevent future losses."
+      },
+      {
+        "id": 17,
+        "question": "What are emergency feeding options for winter?",
+        "answer": "❄️ Dry Sugar (sugar bricks or SockerMat) – Best in freezing temps; 🍬 Fondant – Works, but monitor moisture; 🌼 Pollen Substitute – Only if brood is present; 💧 Sugar Syrup – Wait until daytime highs are ≥ 50°F"
+      },
+      {
+        "id": 18,
+        "question": "How can I participate in COBKA events?",
+        "answer": "Join us for monthly meetings, guest lectures, workshops, and field days. See our website for the latest schedule: https://www.cobeekeeping.org"
+      },
+      {
+        "id": 19,
+        "question": "How can I volunteer with COBKA?",
+        "answer": "COBKA thrives on volunteers! Opportunities include teaching beginner courses, supporting events, and organizing hive inspections. Get involved: contact@cobeekeeping.org"
+      }
+    ]
+  }
